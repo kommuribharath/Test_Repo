@@ -1,5 +1,8 @@
 This is first test file
 
+This is edited from local machine
+
 this is edited from remote machine
 
 this line addded by hem to be merged.
+this is added by hem remotely
